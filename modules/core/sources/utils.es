@@ -59,6 +59,7 @@ var CliqzUtils = {
     },
   hm: null,
   hw: null,
+  ts1: null,
   mc: null,
   TEMPLATES_PATH: CLIQZEnvironment.TEMPLATES_PATH,
   TEMPLATES: CLIQZEnvironment.TEMPLATES,
